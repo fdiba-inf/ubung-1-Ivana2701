@@ -1,10 +1,8 @@
-
 package exercise1;
-public class HelloWorld {
+public class HelloFDIBA {
 
     public static void main(String[] args) {
-        System.out.print("HelloWorld");
+        System.out.print("HelloFDIBA");
     }
 
 }
-
